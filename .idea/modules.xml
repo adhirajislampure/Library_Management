@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChessGame/ChessGame.iml" filepath="$PROJECT_DIR$/ChessGame/ChessGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory_Manager/Inventory_Manager.iml" filepath="$PROJECT_DIR$/Inventory_Manager/Inventory_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InvoiceGeneration/InvoiceGeneration.iml" filepath="$PROJECT_DIR$/InvoiceGeneration/InvoiceGeneration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraray Management 12 ka 4/Libraray Management 12 ka 4.iml" filepath="$PROJECT_DIR$/Libraray Management 12 ka 4/Libraray Management 12 ka 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library_Management/Library_Management.iml" filepath="$PROJECT_DIR$/Library_Management/Library_Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Max/Max.iml" filepath="$PROJECT_DIR$/Max/Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Programs.iml" filepath="$PROJECT_DIR$/Programs/Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveMinimumElement/RemoveMinimumElement.iml" filepath="$PROJECT_DIR$/RemoveMinimumElement/RemoveMinimumElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Runnable/Runnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic Tak Tao/Tic Tak Tao.iml" filepath="$PROJECT_DIR$/Tic Tak Tao/Tic Tak Tao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic tak tao2/Tic tak tao2.iml" filepath="$PROJECT_DIR$/Tic tak tao2/Tic tak tao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1.iml" filepath="$PROJECT_DIR$/untitled1.iml" />
+    </modules>
+  </component>
+</project>
